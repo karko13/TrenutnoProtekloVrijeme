@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\bin\Debug\ProtekloTekuceVrijeme01.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\bin\Debug\ProtekloTekuceVrijeme01.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\bin\Debug\ProtekloTekuceVrijeme01.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\obj\Debug\ProtekloTekuceVrijeme01.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\obj\Debug\ProtekloTekuceVrijeme01.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\obj\Debug\ProtekloTekuceVrijeme01.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\obj\Debug\ProtekloTekuceVrijeme01.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\obj\Debug\ProtekloTekuceVrijeme01.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\obj\Debug\ProtekloTekuceVrijeme01.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\obj\Debug\ProtekloTekuceVrijeme01.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\ProtekloTekuceVrijeme01\obj\Debug\ProtekloTekuceVrijeme01.pdb
